@@ -472,4 +472,6 @@ int main()
 	} while (opt != 7);
 
 	getch();
+	
+	return 0;
 }
